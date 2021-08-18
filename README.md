@@ -1,3 +1,5 @@
+This project takes string, reverses it and prints an alphabet number for each letter.
+
 # Requirements
 
 This project requires Node.js with ES modules support. Any version starting from 14 should work.
