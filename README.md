@@ -4,6 +4,8 @@ This project requires Node.js with ES modules support. Any version starting from
 
 # Example of use in Node REPL:
 
+Run `node` and then execute following:
+
 ```
 let reversedCharNumbers;
 import('./src/index.js').then(m => reversedCharNumbers = m.reversedCharNumbers);
